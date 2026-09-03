@@ -22,7 +22,8 @@
 ## &#128194; Project Showcase & Categories
 
 <details open>
-<summary><h3>&#127918; 1. Games & Graphics Programming</h3>h3></summary>summary>
+<summary><b>&#127918; 1. Games & Graphics Programming</b>b></summary>summary>
+<br>
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
@@ -32,8 +33,11 @@
 
 </details>
 
+<br>
+
 <details open>
-  <summary><h3>&#128188; 2. Web & Enterprise Applications</h3>h3></summary>summary>
+  <summary><b>&#128188; 2. Web & Enterprise Applications</b>b></summary>summary>
+  <br>
 
   | Project | Tech Stack | Highlights |
   | :--- | :--- | :--- |
@@ -41,8 +45,11 @@
 
   </details>
 
+  <br>
+
   <details open>
-    <summary><h3>&#127891; 3. Academic & Coursework Projects</h3>h3></summary>summary>
+    <summary><b>&#127891; 3. Academic & Coursework Projects</b>b></summary>summary>
+    <br>
 
     | Project | Scope | Description |
     | :--- | :--- | :--- |
@@ -53,8 +60,11 @@
 
     </details>
 
+    <br>
+
     <details open>
-    <summary><h3>&#128013; 4. Programming Practice & Scripts</h3></summary>
+    <summary><b>&#128013; 4. Programming Practice & Scripts</b></summary>
+    <br>
 
     | Project | Tech Stack | Description |
     | :--- | :--- | :--- |
@@ -67,10 +77,11 @@
     <div align="center">
 
     ### &#128202; GitHub Stats & Most Used Languages
+
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=KVSVikramaditya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVSVikramaditya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
         </p>
 
         </div>
-</h3></summary>
+</b></summary>
