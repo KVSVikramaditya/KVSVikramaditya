@@ -62,9 +62,7 @@
 
 ### &#128202; GitHub Stats & Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KVSVikramaditya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVSVikramaditya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KVSVikramaditya&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KVSVikramaditya&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
