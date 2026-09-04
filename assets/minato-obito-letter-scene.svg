@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img" aria-label="Minato versus Obito animated letter art">
+<rect width="760" height="240" rx="14" fill="#0d1117"/>
+<style>text{font-family:monospace;font-weight:bold}.t{fill:#8b949e;font-size:14px;letter-spacing:2px}.m{fill:#f0c674;font-size:18px}.o{fill:#c678dd;font-size:18px}.e{fill:#58a6ff;font-size:18px}.i{fill:#ff7b72;font-size:20px}</style>
+<text x="380" y="28" text-anchor="middle" class="t">MINATO × OBITO // LETTER PIXELS</text>
+<g opacity="1"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.22;.25;.97;1" dur="4s" repeatCount="indefinite"/>
+<text x="82" y="92" class="m">MMMMM</text><text x="76" y="114" class="m">M M M M</text><text x="88" y="136" class="m"> /|\ </text><text x="88" y="158" class="m"> / \ </text>
+<text x="563" y="92" class="o">OOOOO</text><text x="557" y="114" class="o">O O O O</text><text x="569" y="136" class="o"> /|\ </text><text x="569" y="158" class="o"> / \ </text>
+<text x="317" y="132" class="e">· · · ◇ · · ·</text><text x="75" y="208" class="t">MINATO</text><text x="548" y="208" class="t">OBITO</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.22;.25;.72;.75" dur="4s" repeatCount="indefinite"/>
+<text x="240" y="104" class="m">MMM</text><text x="235" y="126" class="m">M|M</text><text x="240" y="148" class="m">/ \</text>
+<text x="478" y="104" class="o">OOO</text><text x="473" y="126" class="o">O|O</text><text x="478" y="148" class="o">/ \</text>
+<text x="301" y="132" class="i">&gt;&gt;&gt; ✹ &lt;&lt;&lt;</text><text x="282" y="169" class="e">K U N A I  //  K A M U I</text><text x="295" y="208" class="i">C L A S H !</text></g>
+</svg>
