@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/KVSVikramaditya/KVSVikramaditya/raw/main/assets/minato_character_art_20s.gif" width="650" alt="Minato versus Obito character-art animation" />
+<img src="https://github.com/KVSVikramaditya/KVSVikramaditya/raw/main/assets/minato_character_art_final_profile.gif" width="100%" alt="Minato versus Obito character-art animation" />
 <br/>
 
 # &#128075; Hi, I'm Vikramaditya!
